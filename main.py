@@ -8,6 +8,5 @@ area = float(piee) * float(radi) ** 2
 circum = str(circum)
 area = str(area)
 
-
 print("Circumference = " + circum)
 print("Area = " + area)
