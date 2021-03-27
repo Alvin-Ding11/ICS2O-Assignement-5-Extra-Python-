@@ -1,5 +1,5 @@
 diam = input("Enter your diameter here: ")
-piee = (3.141)
+piee = 3.141
 circum = float(diam) * float(piee)
 
 radi = float(diam) / 2
